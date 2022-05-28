@@ -1,1 +1,1 @@
-# digital_academy_project
+# Skript pro projekt zpracovaný v rámci Digitální akademie: Data, Czechitas. 
